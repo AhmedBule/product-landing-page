@@ -12,3 +12,21 @@ ul{
     padding: 0;
     list-style-type: none;
 }
+li{
+    float: right;
+    font-size: 20px;
+}
+
+a{
+    display: block;
+    padding: 4px;
+    background-color: gray;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 10px;
+
+}
