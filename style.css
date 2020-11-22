@@ -25,8 +25,16 @@ a{
 
 li a{
     display: block;
-    color: white;
     text-align: center;
     padding: 12px 10px;
 
+}
+
+.content{
+    text-align: center;
+    display: block;
+}
+
+body{
+    text-align: center;
 }
