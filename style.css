@@ -58,6 +58,11 @@ body{
     justify-content: center;
 }
 
+#how-it-works > iframe{
+    width: 100%;
+    max-width:560px ;
+}
+
 #pricing {
     margin-top: 60px;
     display: flex;
