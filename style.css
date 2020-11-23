@@ -36,21 +36,34 @@ li a{
 
 }
 
-.content{
-    text-align: center;
-    display: block;
-}
-
 body{
     text-align: center;
+}
+
+.content{
+    text-align: center;
+}
+
+#btn{
+    height: 50px;
+    padding: 0 20px;
+    font-size: 1rem;
+    border: solid;
+    color: orange;
+
+}
+
+#how-it-works{
+    display: flex;
+    justify-content: center;
 }
 
 #pricing {
     margin-top: 60px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-  }
+    justify-content: center; 
+ }
 
   .product {
     display: flex;
@@ -107,3 +120,12 @@ body{
       margin-bottom: 10px;
     }
   }
+
+.footer{
+    border: 15px solid;
+    border-radius: 3px;
+    background-color: gray;
+    color: white;
+    
+}
+
