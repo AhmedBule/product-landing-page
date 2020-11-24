@@ -10,10 +10,11 @@ body {
 }
 
 #logo{
-    display: inline;
+    display: inline-block;
     margin: 15px;
-    float: left;
-
+    width: auto;
+    height: 60px;
+    border-radius: 50%;
 }
 
 .header-img{
